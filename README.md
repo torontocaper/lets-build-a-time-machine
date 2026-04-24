@@ -1,2 +1,3 @@
-# GodotTemplate
-Template repository for Godot projects. Replace this text with a description of the actual project!
+# Let's Build a Time Machine
+Abandoned Trijam concept turned narrative experiment. 
+Build in Godot using my (extremely basic) template repository. 
