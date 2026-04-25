@@ -10,9 +10,24 @@ config_version=5
 
 [application]
 
-config/name="Godot Template"
+config/name="Let's Build a Time Machine"
+run/main_scene="uid://tc1u6v0w1l81"
 config/features=PackedStringArray("4.6", "GL Compatibility")
+boot_splash/use_filter=false
+boot_splash/image="uid://d3ipy8luabxxr"
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=630
+window/size/viewport_height=500
+window/size/window_width_override=1260
+window/size/window_height_override=1000
+window/stretch/mode="canvas_items"
+
+[gui]
+
+theme/custom_font="uid://b8df2sfql42g7"
 
 [physics]
 
@@ -20,6 +35,7 @@ config/icon="res://icon.svg"
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
