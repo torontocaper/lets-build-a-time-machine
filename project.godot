@@ -13,7 +13,8 @@ config_version=5
 config/name="Let's Build a Time Machine"
 run/main_scene="uid://tc1u6v0w1l81"
 config/features=PackedStringArray("4.6", "GL Compatibility")
-boot_splash/image="uid://dxfwffsoowpju"
+boot_splash/stretch_mode=0
+boot_splash/image="uid://bs4feuh3lhjlq"
 config/icon="res://icon.svg"
 
 [display]

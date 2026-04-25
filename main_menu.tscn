@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://tc1u6v0w1l81"]
 
-[ext_resource type="Texture2D" uid="uid://dxfwffsoowpju" path="res://assets/time-machine-concept-1280x720.png" id="1_06t4h"]
+[ext_resource type="Texture2D" uid="uid://bs4feuh3lhjlq" path="res://assets/time-machine-concept-1280x720.png" id="1_06t4h"]
 
 [node name="MainMenu" type="Control" unique_id=806299656]
 layout_mode = 3
